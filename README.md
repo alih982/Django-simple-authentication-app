@@ -30,25 +30,7 @@ The complete MVC application is in test1 in address: https://github.com/alih982/
 ## 🗂 Structure
 
 .
-├── myproject/
-│ ├── settings.py
-│ ├── urls.py
-│ └── ...
-├── myapp/
-│ ├── views.py
-│ ├── templates/panel.html
-│ └── ...
-├── otpauth/
-│ ├── views.py
-│ ├── otp logic (JWT/Phone-based)
-├── chatapp/
-│ ├── consumers.py # WebSocket logic (incomplete)
-│ ├── templates/chat.html
-├── templates/
-│ └── otp.html
-├── static/
-├── requirements.txt
-└── README.md
+Django's default structure and new file for performing model commands.
 
 
 ---
